@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> /*biblioteca para pow*/
+#include <cmath> /*biblioteca para potencia*/
 using namespace std;
 
 int main() {
