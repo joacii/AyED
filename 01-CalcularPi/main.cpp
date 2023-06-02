@@ -11,7 +11,7 @@ int main() {
 
         if (abs(pi - 3.141592) < 0.000001)  {
             break;
-        } /*cuando pi llegue a 6 decimales, dejar re iterar*/
+        } /*cuando pi llegue a 6 decimales, dejar de iterar*/
     }
 
     cout << pi << endl;
