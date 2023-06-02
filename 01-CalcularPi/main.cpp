@@ -12,7 +12,7 @@ int main() {
 
         if (abs(pi - 3.1415926) < 0.000001)  {
             break;
-        } /*cuando pi llegue a 6 decimales, dejar re iterar*/
+        } /*cuando pi llegue a 6 decimales, dejar de iterar*/
     }
 
     cout << setprecision(7) << pi << endl;
